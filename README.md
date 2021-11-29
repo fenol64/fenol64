@@ -17,7 +17,6 @@
   <img  align="center"  alt="Fernando-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center"  alt="Fernando-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  align="center"  alt="Fernando-React"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  align="center"  alt="Fernando-ruby"  height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img  align="center"  alt="Fernando-Python"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img  align="center"  alt="Fernando-C"  height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img  align="center"  alt="Fernando-Cpp"  height="30"  width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -37,9 +36,9 @@
   <a href="https://github.com/NOX-0202/NOX-0202/blob/ddb94f7f6e16d6b5678357421c1604959b942a64/Fernando_Curriculo.pdf" target="_blank"><img src="https://img.shields.io/badge/-Currículo-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank"></a> 
 </div><br>
 
-- 🔭 Estou atualmente atuando como freelancer.
-- 🌱 Atualmente estou programando PHP, JS e Ruby.
-- ⚡ No meu tempo livre eu leio e mantenho .
+- 🔭 Estou atualmente estagiando na empresa Link Informática.
+- 🌱 Atualmente estou programando PHP, JS e python.
+- ⚡ No meu tempo livre eu leio e mantenho meus projetos pessoais.
 - <img align="center" alt="Fernando-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> You found It#3633 
 
 
