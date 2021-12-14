@@ -41,9 +41,6 @@
 - ⚡ No meu tempo livre eu leio e mantenho meus projetos pessoais.
 - <img align="center" alt="Fernando-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> You found It#3633 
 
-
-![Snake animation](https://github.com/NOX-0202/NOX-0202/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **NOX-0202/NOX-0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
