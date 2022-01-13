@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/-Currículo PT-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
   </a> 
     <a href="https://github.com/NOX-0202/NOX-0202/blob/ddb94f7f6e16d6b5678357421c1604959b942a64/Fernando_Curriculo_EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Currículo EN-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume EN-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
   </a> 
 </div><br>
 
