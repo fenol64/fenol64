@@ -33,7 +33,12 @@
   <a href="https://www.instagram.com/phat_oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/marcos-ani-cury-vinagre-silva-3566a1193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://discord.gg/6tZKhxYCCy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/NOX-0202/NOX-0202/blob/ddb94f7f6e16d6b5678357421c1604959b942a64/Fernando_Curriculo.pdf" target="_blank"><img src="https://img.shields.io/badge/-Currículo-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank"></a> 
+  <a href="https://github.com/NOX-0202/NOX-0202/blob/ddb94f7f6e16d6b5678357421c1604959b942a64/Fernando_Curriculo_PT.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo PT-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
+  </a> 
+    <a href="https://github.com/NOX-0202/NOX-0202/blob/ddb94f7f6e16d6b5678357421c1604959b942a64/Fernando_Curriculo_EN.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo EN-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
+  </a> 
 </div><br>
 
 - 🔭 Estou atualmente estagiando na empresa Link Informática.
