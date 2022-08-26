@@ -6,7 +6,7 @@
 </h3>
 
 <p>
-  Programmer from Rio and Developer 4 years ago, creative, self-taught, able to learn and quickly adapt to new tools and technologies. I always enjoyed technology and software development. I started to program at fourteen years old and looking for improvement further and further.
+  Programmer from Rio and Developer 6 years ago, creative, self-taught, able to learn and quickly adapt to new tools and technologies. I always enjoyed technology and software development. I started to program at fourteen years old and looking for improvement further and further.
 </p>
 
 <div  align="center">
