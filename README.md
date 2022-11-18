@@ -34,8 +34,8 @@
   ##
 
 <div align="center"> 
-  <a href="https://www.instagram.com/phat_oliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/fenol64.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fenol64/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://discord.gg/6tZKhxYCCy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/NOX-0202/NOX-0202/blob/536a686de5ee0f6b89b48da5d795bf3046f07cb7/resume-PT.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo PT-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank">
