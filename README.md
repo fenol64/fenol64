@@ -18,7 +18,7 @@
 
 
 <div  align="center"  style="display: inline_block;"><br>
-  <img align="center" width="300" src="https://www.codewars.com/users/fenol64/badges/large"/>
+  <a href="https://www.codewars.com/users/fenol64" target="_blank"><img align="center" width="300" src="https://www.codewars.com/users/fenol64/badges/large"/></a>
   <img  align="center"  alt="Fernando-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center"  alt="Fernando-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center"  alt="Fernando-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
