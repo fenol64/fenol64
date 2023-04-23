@@ -8,13 +8,13 @@
 <p>
   Programmer from Rio and Developer 6 years ago, creative, self-taught, able to learn and quickly adapt to new tools and technologies. I always enjoyed technology and software development. I started to program at fourteen years old and looking for improvement further and further.
 </p>
-<!-- 
+
 <div  align="center">
   <a  href="https://github.com/NOX-0202">
     <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=fenol64&user=fenol64&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
     <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenol64&show_icons=true&layout=compact&theme=gotham&langs_count=6&hide=hack,CSS,python,Starlark&exclude_repo=restaurantes-para-todos">
   </a>
-</div> -->
+</div> 
 
 
 <div  align="center"  style="display: inline_block;"><br>
