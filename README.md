@@ -50,7 +50,7 @@
 </div><br>
 
 - 🔭 Estou atualmente estagiando na empresa Link Informática.
-- 🌱 Atualmente estou programando PHP, JS e python.
+- 🌱 Atualmente estou programando C, JS e python.
 - ⚡ No meu tempo livre eu leio e mantenho meus projetos pessoais.
 - <img align="center" alt="Fernando-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> fenol64#3633 
 
