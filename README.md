@@ -52,7 +52,7 @@
 - 🔭 Estou atualmente estagiando na empresa Link Informática.
 - 🌱 Atualmente estou programando C, JS e python.
 - ⚡ No meu tempo livre eu leio e mantenho meus projetos pessoais.
-- <img align="center" alt="Fernando-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> fenol64#3633 
+- <img align="center" alt="Fernando-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> fenol64
 
 <!--
 **NOX-0202/NOX-0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
